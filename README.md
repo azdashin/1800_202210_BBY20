@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+* Hi my name is Jashanjot. I'm excited about this project beacuse it will make me learn how to wok in team
 	
 ## Technologies
 Technologies used for this project:
