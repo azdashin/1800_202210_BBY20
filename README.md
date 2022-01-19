@@ -5,13 +5,9 @@
 * [Contents](#content)
 
 ## General Info
-<<<<<<< HEAD
 This browser based web application to ...
 * Hi my name is Jashanjot. I'm excited about this project beacuse it will make me learn how to wok in team
-=======
-
-*Tommy, This project is about... 
->>>>>>> 0ba1113 (Added one line intro to README file for Tommy)
+* Tommy, This project is about... 
 	
 ## Technologies
 Technologies used for this project:
