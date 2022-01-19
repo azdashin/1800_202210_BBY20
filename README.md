@@ -5,9 +5,11 @@
 * [Contents](#content)
 
 ## General Info
+
 This browser based web application to ...
 * Hi my name is Jashanjot. I'm excited about this project beacuse it will make me learn how to wok in team
 * Tommy, This project is about... 
+* My name is Danny, this project is about git conflict resolution
 	
 ## Technologies
 Technologies used for this project:
